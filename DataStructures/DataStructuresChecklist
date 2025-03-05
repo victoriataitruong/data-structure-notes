@@ -1,0 +1,188 @@
+1. Array : DONE problem 26
+2. Binary Search Tree (DOM in JavaScript): 
+3. Binary Tree:
+4. Graph: 
+5. Hash Table: 
+6. Heap: 
+7. Linked List: 
+8. Lists:
+9. Queue: 
+10. Set: DONE problem 217
+11. Stack:
+12. Trie: 
+13. Disjoint Set (Union-Find):
+14. Segment Tree:
+
+Chat GPT Recs
+Array → LeetCode 217
+Binary Search Tree (BST) → LeetCode 108
+Binary Tree (General) → LeetCode 104
+Graph → LeetCode 200
+Hash Table → LeetCode 1
+Heap (Priority Queue) → LeetCode 215
+Linked List → LeetCode 206
+Lists (Sorting & Merging Lists) → LeetCode 56
+Queue → LeetCode 232
+Set → LeetCode 136
+Stack → LeetCode 20
+Trie (Prefix Tree) → LeetCode 208
+Disjoint Set (Union-Find) → LeetCode 547 
+Segment Tree / Fenwick Tree → LeetCode 307 
+//-------------------------------------------------------
+•	Array:
+o	26: Remove Duplicates from Sorted Array (DONE)
+o	1: Two Sum
+o	121: Best Time to Buy and Sell Stock
+o	53: Maximum Subarray
+o	56: Merge Intervals
+
+•	Strings:
+o	125: Valid Palindrome
+o	242: Valid Anagram
+o	49: Group Anagrams
+o	3: Longest Substring Without Repeating Characters
+o	76: Minimum Window Substring
+
+•	Hashing:
+o	383: Ransom Note
+o	202: Happy Number
+o	438: Find All Anagrams in a String
+o	128: Longest Consecutive Sequence
+o	217: Contains Duplicate (DONE)
+
+•	Linked List:
+o	206: Reverse Linked List
+o	141: Linked List Cycle
+o	21: Merge Two Sorted Lists
+o	234: Palindrome Linked List
+o	2: Add Two Numbers
+
+•	Stacks:
+o	20: Valid Parentheses
+o	232: Implement Queue Using Stacks
+o	155: Min Stack
+o	739: Daily Temperature
+o	150: Evaluate Reverse Polish Notation
+
+•	Queues:
+o	622: Design Circular Queue
+o	346: Moving Average from Data Stream
+o	933: Number of Recent Calls
+o	1021: Remove Outermost Parentheses
+
+•	Binary Trees:
+o	104: Maximum Depth of Binary Tree
+o	100: Same Tree
+o	226: Invert Binary Tree
+o	102: Binary Tree Level Order Traversal
+o	144: Binary Tree Preorder Traversal
+
+•	Binary Search Trees:
+o	700: Search in a Binary Search Tree
+o	701: Insert into a Binary Search Tree
+o	98: Validate Binary Search Tree
+o	235: Lowest Common Ancestor of a Binary Search Tree
+o	108: Convert Sorted Array to Binary Search Tree
+
+•	Sorting:
+o	88: Merge Sorted Array
+o	56: Merge Intervals
+o	252: Meeting Rooms
+o	253: Meeting Rooms II
+o	75: Sort Colors
+
+•	Binary Search:
+o	33: Search in Rotated Sorted Array
+o	153: Find Minimum in Rotated Sorted Array
+o	162: Find Peak Element
+o	74: Search a 2D Matrix
+o	658: Find K Closest Elements
+
+•	Greedy Algorithms:
+o	455: Assign Cookies
+o	763: Partition Labels
+o	122: Best Time to Buy and Sell Stock II
+o	406: Queue Reconstruction by Height
+
+•	DFS/BFS:
+o	200: Number of Islands
+o	130: Surrounded Regions
+o	695: Max Area of Island
+o	417: Pacific Atlantic Water Flow
+o	133: Clone Graph
+
+•	Union-Find (Disjoint Set):
+o	547: Friend Circles
+o	684: Redundant Connection
+o	721: Accounts Merge
+o	399: Evaluate Division
+o	323: Number of Connected Components in an Undirected Graph
+
+•	DP (1D):
+o	70: Climbing Stairs
+o	322: Coin Change
+o	198: House Robber
+o	746: Min Cost Climbing Stairs
+
+•	DP (2D):
+o	62: Unique Paths
+o	63: Unique Paths II
+o	1143: Longest Common Subsequence
+o	1035: Uncrossed Lines
+
+•	Knapsack & Subsets:
+o	416: Partition Equal Subset Sum
+o	494: Target Sum
+o	1049: Last Stone Weight II
+
+•	Heaps:
+o	215: Kth Largest Element in an Array
+o	703: Kth Largest Element in a Stream
+o	23: Merge k Sorted Lists
+o	621: Task Scheduler
+o	378: Kth Smallest Element in a Sorted Matrix
+
+•	Bit Manipulation:
+o	191: Number of 1 Bits
+o	136: Single Number
+o	137: Single Number II
+o	190: Reverse Bits
+o	338: Counting Bits
+
+•	Segment Tree / Fenwick Tree:
+o	307: Range Sum Query - Mutable
+o	315: Count of Smaller Numbers After Self
+o	308: Range Sum Query 2D - Mutable
+
+•	Google:
+o	269: Alien Dictionary
+o	642: Design Search Autocomplete System
+o	1047: Remove All Adjacent Duplicates in String
+
+•	Amazon:
+o	253: Meeting Rooms II
+o	56: Merge Intervals
+o	146: LRU Cache
+o	295: Find Median from Data Stream
+
+•	Meta (Facebook):
+o	340: Longest Substring with At Most K Distinct Characters
+o	973: K Closest Points to Origin
+o	1249: Minimum Remove to Make Valid Parentheses
+
+•	Apple:
+o	138: Copy List with Random Pointer
+o	622: Design Circular Queue
+o	134: Gas Station
+
+•	Trie:
+o	208: Implement Trie (Prefix Tree)
+o	211: Design Add and Search Words Data Structure
+o	208: Implement Trie
+
+•	Set:
+o	217: Contains Duplicate (DONE)
+o	128: Longest Consecutive Sequence
+o	202: Happy Number
+
+

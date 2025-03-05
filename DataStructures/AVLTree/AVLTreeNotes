@@ -1,0 +1,1 @@
+An AVL tree is a type of binary search tree (BST) that keeps everything balanced. If a tree gets too "lopsided," it gets re-arranged so that no branch is much longer than another. This makes searching faster.

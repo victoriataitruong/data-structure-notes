@@ -1,0 +1,7 @@
+O(1): Constant time : the algorithm takes the same amount of time regardless of input size.
+O(n): Linear time : the algorithm's time grows linearly with the input size.
+O(log n): Logarithmic time : the algorithm reduces the problem size by a constant factor each step.
+O(n log n): Log-linear time : typically seen in efficient sorting algorithms like MergeSort and QuickSort.
+O(n²): Quadratic time : common in algorithms with nested loops, like BubbleSort.
+O(n³): Cubic time : common in certain matrix operations or dynamic programming problems.
+

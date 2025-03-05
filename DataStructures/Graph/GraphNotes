@@ -1,0 +1,12 @@
+Here's a super simple graph with just three friends:
+•	Alice is friends with Bob and Charlie.
+•	Bob is friends with Alice.
+•	Charlie is friends with Alice.
+Code:
+const friends = { Alice: ["Bob", "Charlie"], Bob: ["Alice"], Charlie: ["Alice"] }; 
+console.log(friends);
+How to Read This?
+•	"Alice": ["Bob", "Charlie"] → Alice is connected to Bob and Charlie.
+•	"Bob": ["Alice"] → Bob is only connected to Alice.
+•	"Charlie": ["Alice"] → Charlie is only connected to Alice.
+It's just a big list of who is connected to whom!

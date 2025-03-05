@@ -1,0 +1,4 @@
+.get() – Retrieves the value associated with a specific key (by passing in a key).
+.has() – Checks if a specific key exists in the Map (by passing in a key).
+.keys() – Gets an iterator for all the keys in the Map.
+.values() – Gets an iterator for all the values in the Map.

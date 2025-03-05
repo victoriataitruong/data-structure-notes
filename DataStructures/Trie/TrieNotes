@@ -1,0 +1,7 @@
+Imagine you have a big box of toys, and each toy has a label with a word on it, like "cat," "dog," or "fish." Now, instead of looking through all the toys one by one to find a word, you organize the toys into smaller boxes, where each box holds toys that start with the same letter.
+For example:
+•	One box has toys that start with "C" like "cat" and "car."
+•	Another box has toys that start with "D" like "dog" and "doll."
+•	Another one has toys that start with "F" like "fish" and "frog."
+This way, when you want to find a toy, you can quickly go to the box for the first letter of the word you're looking for and find it faster!
+In JavaScript, a Trie is like this special box system for words. It helps you quickly search, add, or find words by looking at their letters, one by one, instead of checking each word individually. It’s a very smart way to organize words or letters.

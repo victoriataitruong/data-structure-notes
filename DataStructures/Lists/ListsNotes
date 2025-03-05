@@ -1,0 +1,1 @@
+Lists are an abstraction and interface, so you can use any class that implements it (like ArrayList, LinkedList).

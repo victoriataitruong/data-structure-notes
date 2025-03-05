@@ -1,0 +1,12 @@
+A heap is a special tree-like structure that always keeps the smallest (or largest) value at the top.
+A priority queue is like a VIP line where important things come first, not just whoever arrives first.
+Imagine you're in a hospital emergency room. Patients are treated based on urgency, not on when they arrived.
+For example:
+1.	Alice (Critical)
+2.	Bob (Mild Fever)
+3.	Charlie (Broken Arm)
+The doctor will see Alice first, even if Bob arrived earlier!
+
+Steps to Understand the Max-Heap:
+•  Insert: When a new patient arrives, they are placed into the heap based on their urgency level.
+•  Extract-Max: The doctor always treats the patient at the top (with the highest priority), and that patient is then removed from the heap.

@@ -1,0 +1,33 @@
+AVLTree, BinarySearchTree, and BinaryTree - These are all tree structures, but you might want to consider if they overlap or need separate tracking. You may want to track them as different types if you plan to implement or use them differently (e.g., AVL is a self-balancing binary search tree).
+
+Graph - If you're learning about graphs, you could consider adding specific types like:
+
+Directed Graph (Digraph)
+Undirected Graph
+Weighted Graph
+Adjacency Matrix/List for representing graphs.
+Lists - This may be overlapping with ArrayLists, but depending on your curriculum, it might make sense to have a general "List" entry for array-based or linked-list-based implementations.
+
+Set - You may want to break this down further:
+
+HashSet (backed by a hash table)
+TreeSet (sorted set, often implemented with a red-black tree)
+Trie - It's often useful in the context of strings or prefix-based searches, so you might already know that it can be used for autocompletion, dictionaries, etc.
+
+Heap - You could specify types like:
+
+Min-Heap
+Max-Heap
+Queue - You might want to specify variations like:
+
+Circular Queue
+Priority Queue
+Deque (Double-Ended Queue) – This can be a useful structure, where you can add/remove elements from both ends.
+
+Skip List – If you're covering advanced data structures, skip lists are an interesting alternative to balanced trees for ordered data.
+
+Segment Tree – Great for range queries and updates.
+
+Disjoint Set (Union-Find) – Useful for dynamic connectivity problems.
+
+B-Tree or B+ Tree - These are used in databases and file systems.

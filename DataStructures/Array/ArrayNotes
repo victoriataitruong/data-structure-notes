@@ -1,0 +1,3 @@
+An array is like a container that holds multiple values or items, but all the items are of the same type (like all numbers, all strings, etc.). Instead of having to create separate variables for each item, you can store them in an array and access them using their position, called an index.
+
+Arrays are static (fixed size) and simpler, but not as flexible.

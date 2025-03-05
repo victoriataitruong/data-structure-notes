@@ -1,0 +1,11 @@
+A hash table is like a magic dictionary that helps you quickly find things. It stores data in key-value pairs and uses a special function (hash function) to find things fast.
+
+Instead of searching through a long list of names, we can use a hash function to instantly find a student by their locker number!
+
+const lockerSystem = { 101: "Alice", 102: "Bob", 103: "Charlie" }; 
+console.log(lockerSystem[101]); // Output: 
+Alice console.log(lockerSystem[102]); // Output: Bob
+
+Instead of searching one by one, we just jump to the right box instantly!
+
+A hash (or hash map) is a data structure that stores key-value pairs and allows for fast lookups. In JavaScript, a plain object {} or a Map can act as a hash.
