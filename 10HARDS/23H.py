@@ -38,3 +38,6 @@ class Solution:
             tail.next = l2
         
         return dummy.next
+
+
+#https://youtu.be/Sx9NNgInc3A
